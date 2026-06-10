@@ -68,6 +68,6 @@ A taxa de ocupação média de 50,64% e a avaliação média de 4,81 indicam um 
 maduro e com boa aceitação pelos hóspedes.
 
 Entre os principais desafios identificados, destaca-se a ausência de correlação entre 
-preço e avaliações, sugerindo que outros fatores não disponíveis no dataset — como 
-qualidade das fotos, descrição do imóvel e localização específica — são determinantes 
+preço e avaliações, sugerindo que outros fatores não disponíveis no dataset, como 
+qualidade das fotos, descrição do imóvel e localização específica, são determinantes 
 para o desempenho de um anúncio na plataforma.
