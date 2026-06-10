@@ -22,9 +22,6 @@ no Rio de Janeiro no período de 2025.
 - Google Colab
 - Power BI
 
-## Estrutura do Repositório
-
-
 ## Análise Exploratória (Python)
 A análise exploratória foi realizada no Google Colab e contemplou as seguintes etapas:
 
