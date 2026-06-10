@@ -40,7 +40,7 @@ A análise exploratória foi realizada no Google Colab e contemplou as seguintes
 O dashboard foi desenvolvido no Power BI com o objetivo de apresentar os principais 
 insights do mercado de hospedagens do Airbnb no Rio de Janeiro de forma visual e interativa.
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Indicadores Monitorados
 - Preço médio da diária
